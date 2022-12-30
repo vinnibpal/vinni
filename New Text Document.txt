@@ -5,7 +5,8 @@ start a working area (see also: git help tutorial)
    init       Create an empty Git repository or reinitialize an existing one1
 
 work on the current change (see also: git help everyday)
-   add        Add file contents to the index
+   add        Add file contents to the index  fj
+
    mv         Move or rename a file, a directory, or a symlink
    reset      Reset current HEAD to the specified state
    rm         Remove files from the working tree and from the index
